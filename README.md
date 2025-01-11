@@ -101,3 +101,8 @@ This lab demonstrated the security risks of weak input validation using the OWAS
 - **SQL Injection:** Bypassed authentication.
 
 The exercise emphasized secure coding practices to protect against vulnerabilities like SQL injection and parameter tampering, which can lead to significant security breaches.
+
+---
+
+### Disclaimer
+This project was conducted in a controlled environment. Unauthorized use of these techniques or tools outside such an environment may violate ethical guidelines and legal regulations.
