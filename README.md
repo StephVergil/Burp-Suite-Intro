@@ -1,6 +1,6 @@
 # Homework 10: Burp Suite Intro
 
-[Burp Suite Intro Commit](https://github.com/StephVergil/Burp-Suite-Intro/commit/b0f6e7addf2e83686d6391d2895b7ae2b3b4ab6d)
+[Burp Suite Project](https://github.com/StephVergil/Burp-Suite-Intro/blob/main/Homework%2010.docx) 
 
 ## Step 1: Configure Burp Suite
 
